@@ -1,0 +1,1 @@
+MONGO_URI = "mongodb+srv://<username>:<password>@database.6z5uhhu.mongodb.net/"
